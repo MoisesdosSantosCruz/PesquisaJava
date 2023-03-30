@@ -1,7 +1,7 @@
 # PesquisaJava
 Nós teremos aqui uma pesquisa sobre Java
 
-Tipos de Dados
+Tipos de Dados - Dados Primitivos
 
 -Boolean: O Boolean é um dado com apenas dois valores, verdadeiro ou falso. É como se fosse os númerios binários.
 
@@ -27,12 +27,14 @@ if/else - Condição boleana, ou seja, apenas aceita o que é verdadeiro e o que
 
 Switch/case - Momentos que se vai utilizar muitos Ifs no código.
 
-Repetição
+Estrutura de Repetição
 
 For: Executado por um tempo ou condição pré-determinados e em quantidade que determinamos.
 
 While: Quando não sabemos quanto o código será repitido.
 
 https://www.treinaweb.com.br/blog/estruturas-condicionais-e-estruturas-de-repeticao-em-java
+
+
 
 
