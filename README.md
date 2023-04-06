@@ -24,6 +24,7 @@ https://www.academicotech.com/post/tipos-de-dados-em-java
 Estrutura Condicional
 
 if/else - Condição boleana, ou seja, apenas aceita o que é verdadeiro (é executado) e o que é falso(Quando for falsa é utilizada o else).
+Quando for falsa, usar o else. Condição usar If.
 
 Switch/case - Momentos que se vai utilizar muitos Ifs no código, testa o valor contido em uma variável.
 
@@ -51,8 +52,8 @@ Switch - É um widget dinâmico de dois estados
 
 Text: São comandos para texto
 
-TextView - Exibit a tela de um aplicativo
-Plain text 
+TextView - Exibir a tela de um aplicativo
+Plain text - Forma de edição de texto
 Password - Senha
 Password(Numeric) - Senha numérico
 E-Mail - Conta
@@ -60,13 +61,13 @@ Phone - Telefone
 Postal Address - Strings que descrevem uma localização, um endereço.
 Multiline Text - Texto multilinhas
 Time - Momento do tempo
-Date - A data
-Number - Numéros
-Number(Signed) - Números Assinados
-Number(Decimal) - Números decimais
+Date - Data
+Number - Text para Numéros
+Number(Signed) - Texto para Números Assinados
+Number(Decimal) - Texto para númesros números decimais
 AutoCompleteTextView - Edição para auto completar um texto.
 
-Buttons: Botões para assionar uma ação
+Buttons: Botões para acionar uma ação
 
 Button - Botão interativo
 ImageButton - Botão com imagem
@@ -81,32 +82,34 @@ FloatingActionButton - Botão circular que ativa a primeira ação do seu aplica
 
 Widgets - Cartões de conteúdo dinânmico
 
-View - Interface
-ImageView - Imagem
-WebView - Imagem na Web
-VideoView - Vídeo
+View - Interface.
+ImageView - Imagem.
+WebView - Imagem na Web.
+VideoView - Vídeo.
 CalendarView - Calendário
-ProgressBar - Barra de progresso
-ProgressBar(Horizontal) - Barra de progresso (Horizontal)
-SeekBar
-SeekBar(Discrete)
-RatingBar
-SearchView - Barra de Pesquisa
-TextureView - Textura da interface
-SurfaceView - Surpefície da interface
-HorizontalDivider - Divisor Horizontal
-VerticalDvider - Divisor Vertical
+ProgressBar - Barra de progresso.
+ProgressBar(Horizontal) - Barra de progresso (Horizontal).
+SeekBar - Extenção da Progressbar que adiciona uma interação de arrastar.
+SeekBar(Discrete) - Extenção da Progressbar adiciona uma interação de arrastar, porém discreta.
+RatingBar - É uma extenção do Seekbar e do Progressbar que demonstra avaliação com estrelas.
+SearchView - Barra de Pesquisa.
+TextureView - Textura da interface.
+SurfaceView - Surpefície da interface.
+HorizontalDivider - Divisor Horizontal.
+VerticalDvider - Divisor Vertical.
 
 Layouts - Interface do usuário no aplicativo.
 
-ConstraintLayout
-LinearLayout(horizontal)
-LinearLayout(vertical)
-FrameLayout
-TableLayout
-TableRow
+ConstraintLayout - Pemitir criar grandes e complexos layouts. 
+LinearLayout(horizontal) - Grupo de visualização que alinha a tela de modo horizontal.
+LinearLayout(vertical) - Grupo de visualização que alinha de modo vertical.
+FrameLayout - Bloquiar para mostrar um único item
+TableLayout - Posiciona os itens em linhas e colunas
+TableRow - Visualização do item
 Scape
 
+Fonte: Android Studio 
+https://developer.android.com/studio?gclid=EAIaIQobChMI-pDl262V_gIVYxbUAR3OVQVCEAAYASAAEgKvS_D_BwE&gclsrc=aw.ds
 
 
 
